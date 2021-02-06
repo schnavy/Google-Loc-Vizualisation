@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  z-index: -10;
+  /* cursor: none; */
+}
+
+#defaultCanvas0{
+  display: block;
+  margin: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  z-index: 10;
+}
+
+button{
+position: absolute;
+bottom: 20px;
+left: 20px;
+
+}
